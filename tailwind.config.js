@@ -10,10 +10,10 @@ export default {
   theme: {
     extend: {
       backgroundImage: (theme) => ({
-        light_header_image: "url('/assets/bg-desktop-light.jpg')",
-        dark_header_image: "url('/assets/Todo-Desktop.png')",
-        light_header_image_mobile: "url('/assets/bg-mobile-light.jpg')",
-        dark_header_image_mobile: "url('/assets/Todo-Mobile.png')",
+        'light_header_image': "url('/assets/bg-desktop-light.jpg')",
+        'dark_header_image': "url('/assets/Todo-Desktop.png')",
+        'light_header_image_mobile': "url('/assets/bg-mobile-light.jpg')",
+        'dark_header_image_mobile': "url('/assets/Todo-Mobile.png')",
       })
     },
   },
